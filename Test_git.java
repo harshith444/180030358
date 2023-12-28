@@ -3,6 +3,9 @@ public class Test_git {
     {
         System.out.println("First git try");
         System.out.println("testing of local repo thing");
+        System.out.println("trying out merge1");
+        System.out.println("merge");
+
     }
     
 }
