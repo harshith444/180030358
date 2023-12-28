@@ -5,6 +5,7 @@ public class Test_git {
         System.out.println("testing of local repo thing");
         System.out.println("trying out merge1");
         System.out.println("merge");
+        System.out.println("working with new test branch");
 
     }
     
